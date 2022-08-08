@@ -6,7 +6,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - 💼 Reverse Engineer
 
-- ❤️ I love writing C++, Jave, C and building fun experiments on type-level
+- ❤️ I like writing C++, Java, C and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/ckagngoc/ckagngoc/issues)
 
