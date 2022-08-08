@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ckagngoc.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://ckagngoc.github.io"><img width="80%" alt="Hello, I'm Pham Duc Minh. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
@@ -6,7 +6,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 **About me**
 
-- 💼 Reverse Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Reverse Engineer at
 
 - ❤️ I love writing C++, Jave, C and building fun experiments on type-level
 
