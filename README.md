@@ -20,15 +20,5 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 | <a href="https://github.com/ckagngoc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ckagngoc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ckagngoc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckagngoc&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/ckagngoc/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ckagngoc&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/ckagngoc/ckagngoc.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ckagngoc&repo=ckagngoc.github.io&theme=buefy" />
-</a>
-
 <br />
 <br />
