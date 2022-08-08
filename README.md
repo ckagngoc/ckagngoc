@@ -4,7 +4,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 **About me**
 
-- 💼 Reverse Engineer at
+- 💼 Reverse Engineer
 
 - ❤️ I love writing C++, Jave, C and building fun experiments on type-level
 
