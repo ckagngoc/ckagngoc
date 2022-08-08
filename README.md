@@ -6,9 +6,9 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 **About me**
 
-- 💼 BackEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Reverse Engineer at [Razorpay](http://razorpay.com/)
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing C++, Jave, C and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/ckagngoc/ckagngoc/issues)
 
