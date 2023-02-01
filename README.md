@@ -1,4 +1,4 @@
-##### Hi there, I am ckagngoc
+# Hi there, I am ckagngoc
 
 I'm a self-taught passionate BackEnd developer from VietNam
 
