@@ -4,7 +4,7 @@ I'm a self-taught passionate BackEnd developer from VietNam
 
 **About me**
 
-- 💼 Reverse Engineer
+- 💼 Reverse Engineer, Programming,...
 
 - ❤️ I like writing C++, Java, C and building fun experiments on type-level
 
