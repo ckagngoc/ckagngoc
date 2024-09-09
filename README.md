@@ -8,7 +8,7 @@ I'm a self-taught passionate BackEnd developer from VietNam
 
 - ❤️ I like writing C++, Java, C and building fun experiments on type-level
 
-- 💬 Ask me about anything [here](https://github.com/ckagngoc/ckagngoc/issues)
+- 💬 Ask me about anything [here](https://web.facebook.com/profile.php?id=100026147535753)
 
 <code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
