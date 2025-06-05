@@ -1,6 +1,10 @@
 # Hi there, I am ckagngoc
 
-I'm a self-taught passionate BackEnd developer from VietNam
+👨‍💻 Reverse Engineer | Software Cracker | Security Researcher
+Passionate about understanding software internals, analyzing obfuscated code, and breaking protection mechanisms.
+I specialize in reverse engineering, binary analysis, and debugging for educational and research purposes.
+Sharing tools, write-ups, and experiments to contribute to the infosec and RE communities.
+Always learning. Always exploring the unknown.
 
 **About me**
 
