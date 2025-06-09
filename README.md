@@ -38,7 +38,6 @@ Always learning. Always exploring the unknown.
   <img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png" alt="Java"/>
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/>
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#"/>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/37efc926ba0c909a6b1b5aab4b8e6c7b5e9c2b2c/topics/assembly/assembly.png" alt="Assembly"/>
   <img height="30" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/linux/linux.png" alt="Linux"/>
   <img height="30" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/windows/windows.png" alt="Windows"/>
 </p>
@@ -54,8 +53,4 @@ Always learning. Always exploring the unknown.
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ckagngoc&theme=radical&no-frame=true&column=7" alt="trophy"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ckagngoc&color=blueviolet" alt="profile views"/>
 </p>
