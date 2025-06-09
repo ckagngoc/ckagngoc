@@ -1,15 +1,12 @@
 # 👋 Hi, I'm ckagngoc!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=ckagngoc&fontSize=40&fontAlign=50&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:6a11cb&height=220&section=header&text=ckagngoc&fontSize=50&fontAlign=50&fontColor=ffffff&fontAlignY=40&desc=Reverse%20Engineer%20%7C%20Security%20Researcher&descAlign=50&descSize=22&font=Fira+Code" alt="header"/>
 </p>
 
 <!-- Hacker & RE tools GIFs -->
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="hacker animation" height="120"/>
-  <img src="https://raw.githubusercontent.com/wiki/williballenthin/python-idb/images/ida-logo.gif" alt="IDA Pro" height="60"/>
-  <img src="https://user-images.githubusercontent.com/943555/120899978-2e2e2a00-c5f2-11eb-8e2e-2e2e2e2e2e2e.gif" alt="Binary Ninja" height="60"/>
-  <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/GhidraDocs/images/GhidraLogoAnim.gif" alt="Ghidra" height="60"/>
 </p>
 
 ## 👨‍💻 Reverse Engineer | Software Cracker | Security Researcher
@@ -53,4 +50,13 @@ Always learning. Always exploring the unknown.
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ckagngoc&theme=radical&no-frame=true&column=7" alt="trophy"/>
+</p>
+
+---
+
+<!-- Contributions Calendar & Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ckagngoc&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br /><br />
+  <img src="https://ghchart.rshah.org/6a11cb/ckagngoc" alt="ckagngoc's Github chart" />
 </p>
