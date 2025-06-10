@@ -98,3 +98,9 @@ Always learning. Always exploring the unknown.
   <br /><br />
   <img src="https://ghchart.rshah.org/6a11cb/ckagngoc" alt="ckagngoc's Github chart" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ckagngoc/ckagngoc/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ckagngoc/ckagngoc/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ckagngoc/ckagngoc/output/github-snake.svg" />
+</picture>
