@@ -96,7 +96,6 @@ Always learning. Always exploring the unknown.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ckagngoc&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br /><br />
-  <img src="https://ghchart.rshah.org/6a11cb/ckagngoc" alt="ckagngoc's Github chart" />
 </p>
 
 <picture>
