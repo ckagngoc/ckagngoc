@@ -1,7 +1,7 @@
 # 👋 Hi, I'm ckagngoc!
 
 <!-- Banner -->
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 1200px 0;" width="1200">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="hacker typing" height="120" style="margin: 0 10px; border-radius: 10px;"/>
 </div>
 
