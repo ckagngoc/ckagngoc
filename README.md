@@ -1,14 +1,6 @@
 # 👋 Hi, I'm ckagngoc!
 
 <!-- Banner -->
-<div align="center" style="margin: 40px 0;">
-  <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    alt="hacker typing" 
-    style="max-width: 100%; height: auto; margin: 0 10px; border-radius: 10px;"
-  />
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:6a11cb&height=220&section=header&text=ckagngoc&fontSize=50&fontAlign=50&fontColor=ffffff&fontAlignY=40&desc=Reverse%20Engineer%20%7C%20Security%20Researcher&descAlign=50&descSize=22&font=Fira+Code" alt="header"/>
 </p>
@@ -17,6 +9,14 @@
     <img src="https://img.shields.io/badge/My%20Blog-6A11CB?style=for-the-badge&logo=githubpages&logoColor=white" alt="My Blog"/>
   </a>
 </p>
+
+<div align="center" style="margin: 40px 0;">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    alt="hacker typing" 
+    style="max-width: 100%; height: auto; margin: 0 10px; border-radius: 10px;"
+  />
+</div>
 
 ## 📫 Contact Me 
 
