@@ -33,16 +33,16 @@
   <a target="_blank" href="https://www.youtube.com/@coderlowtech0602" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
 </p>
 
-## 👨‍💻 Reverse Engineer | Software Cracker | Security Researcher
+---
+
+## 🧑‍💼 About Me
+
+### 👨‍💻 Reverse Engineer | Software Cracker | Security Researcher
 
 🔍 **Passionate about exploring software internals, analyzing obfuscated code, and breaking protection mechanisms.**  
 I specialize in reverse engineering, binary analysis, and debugging for educational and research purposes.  
 I love sharing tools, write-ups, and experiments to contribute to the infosec and RE communities.  
 Always learning. Always exploring the unknown.
-
----
-
-### 🧑‍💼 About Me
 
 - 💼 **Reverse Engineer, Programmer, Security Enthusiast**
 - ❤️ Enjoys C++, Java, C, and building fun type-level experiments
