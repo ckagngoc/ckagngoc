@@ -1,8 +1,12 @@
 # 👋 Hi, I'm ckagngoc!
 
 <!-- Banner -->
-<div align="center" style="margin: 1200px 0;" width="1200">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="hacker typing" height="120" style="margin: 0 10px; border-radius: 10px;"/>
+<div align="center" style="margin: 40px 0;">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    alt="hacker typing" 
+    style="max-width: 100%; height: auto; margin: 0 10px; border-radius: 10px;"
+  />
 </div>
 
 <p align="center">
@@ -27,13 +31,6 @@
     <img src="https://img.shields.io/badge/GitHub-232526?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a target="_blank" href="https://www.youtube.com/@coderlowtech0602" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
-</p>
-
-<!-- Hacker & RE tools GIFs -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="hacker typing" height="120"/>
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="matrix code" height="120"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="terminal hacker" height="120"/>
 </p>
 
 ## 👨‍💻 Reverse Engineer | Software Cracker | Security Researcher
