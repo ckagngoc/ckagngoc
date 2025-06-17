@@ -115,10 +115,6 @@ Always learning. Always exploring the unknown.
 ---
 
 <!-- Contributions Calendar & Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ckagngoc&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br /><br />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ckagngoc/ckagngoc/output/github-snake-dark.svg" />
